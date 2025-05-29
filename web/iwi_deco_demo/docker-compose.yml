@@ -1,0 +1,8 @@
+services:
+  app:
+    restart: always
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - FLAG="TSGLIVE{5pr1ng_b007_5571_w17h_apach3_lang3_by_PARZEL}"

@@ -1,0 +1,18 @@
+services:
+  app:
+    build: .
+    ports:
+      - "32654:8000"
+    depends_on:
+      - redis
+      - flag
+    environment:
+      - REDIS_HOST=redis
+
+  redis:
+    image: redis:7
+
+  flag:
+    build: ./flag
+    expose:
+      - "45654"

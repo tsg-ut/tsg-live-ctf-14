@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+  <title>IWI-DECO Demo</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 600px;
+      margin: 2rem auto;
+    }
+
+    .profile-box {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+
+    .profile-box h2 {
+      margin-top: 0;
+    }
+
+    label {
+      display: block;
+      margin-top: 1rem;
+    }
+
+    input {
+      width: 100%;
+      padding: 0.5rem;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>IWI-DECO Demo</h1>
+  <form action="/profile" method="post">
+    <label>User ID: <input type="text" name="userId" required /></label>
+    <button type="submit">Go to Settings</button>
+  </form>
+
+</body>
+
+</html>

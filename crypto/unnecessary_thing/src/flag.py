@@ -1,0 +1,1 @@
+flag = "TSGLIVE{Do_not_draw_legs_on_a_snake!}"

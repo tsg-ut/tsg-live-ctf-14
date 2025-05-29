@@ -1,0 +1,1 @@
+flag="TSGLIVE{separated_isogeny_is_detemined_by_its_kernel}"

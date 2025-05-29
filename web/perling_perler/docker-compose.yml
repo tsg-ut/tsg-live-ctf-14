@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    ports:
+      - "41323:3000"
+    environment:
+      - FLAG="TSGLIVE{5h3ll1ng_5h3ll3r}"

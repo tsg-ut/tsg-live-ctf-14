@@ -1,0 +1,10 @@
+services:
+  ctf:
+    build: ./
+    restart: always
+    ports:
+      - 1728:1728
+    environment:
+      HASHCASH_LENGTH: 14
+      HASHCASH_STRENGTH: 30
+      HASHCASH_TIMEOUT: 450

@@ -1,0 +1,1 @@
+flag = "TSGLIVE{Castryck-Decru_Attack_is_not_needed_to_solve_this}"
