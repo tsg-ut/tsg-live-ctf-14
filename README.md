@@ -4,19 +4,19 @@
 
 **Name**|**Genre**|**Difficulty**|**Author**|**Solves**
 :------|:------|:------|:------|:------
-[traditional_fork_chall](pwn/traditional_fork_chall)|pwn|beginner|iwashiira|6solves
-[traditional_fork_chall_v2](pwn/traditional_fork_chall_v2)|pwn|med|iwashiira|3solves
-[traditional_fork_chall_v3](pwn/traditional_fork_chall_v3)|pwn|hard|iwashiira|1solve
-[perling_perler](web/perling_perler)|web|beginner|iwashiira|20solves
-[shortnm](web/shortnm)|web|easy|iwashiira|8solves
-[iwi_deco_demo](web/iwi_deco_demo)|web|med|iwashiira|3solves
-[string_related_js](rev/string_related_js)|rev|easy|iwashiira|16solves
-[process_hoppiing](rev/process_hopping)|rev|med|iwashiira|10solves
-[MISSION: ISPOSSSIBLE](pwn/mission_ispossible)|pwn|med|caphosra|4solves
-[unnecessary_thing](crypto/unnecessary_thing)|crypto|easy|settyan117|20solves
-[unnecessary_thing_2](crypto/unnecessary_thing_2)|crypto|med|settyan117|7solves
-[技巧](crypto/gikou)|crypto|med|jp3bgy|3solves
-[細工](crypto/saiku)|crypto|med|jp3bgy|3solves
+[traditional_fork_chall](pwn/traditional_fork_chall)|pwn|beginner|iwashiira|6 solves
+[traditional_fork_chall_v2](pwn/traditional_fork_chall_v2)|pwn|med|iwashiira|3 solves
+[traditional_fork_chall_v3](pwn/traditional_fork_chall_v3)|pwn|hard|iwashiira|1 solve
+[perling_perler](web/perling_perler)|web|beginner|iwashiira|20 solves
+[shortnm](web/shortnm)|web|easy|iwashiira|8 solves
+[iwi_deco_demo](web/iwi_deco_demo)|web|med|iwashiira|3 solves
+[string_related_js](rev/string_related_js)|rev|easy|iwashiira|16 solves
+[process_hoppiing](rev/process_hopping)|rev|med|iwashiira|10 solves
+[MISSION: ISPOSSSIBLE](pwn/mission_ispossible)|pwn|med|caphosra|4 solves
+[unnecessary_thing](crypto/unnecessary_thing)|crypto|easy|settyan117|20 solves
+[unnecessary_thing_2](crypto/unnecessary_thing_2)|crypto|med|settyan117|7 solves
+[技巧](crypto/gikou)|crypto|med|jp3bgy|3 solves
+[細工](crypto/saiku)|crypto|med|jp3bgy|3 solves
 
 ## Result
 
